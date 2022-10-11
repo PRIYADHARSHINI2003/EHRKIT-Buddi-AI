@@ -1,0 +1,12 @@
+				Model		Random Guessing
+ROUGE-1 Average Precision:	0.218		0.346
+ROUGE-1 Average Recall:		0.517		0.346
+ROUGE-1 Average F1 Score:	0.299		0.341
+--------------------
+ROUGE-2 Average Precision:	0.105		0.125
+ROUGE-2 Average Recall:		0.249		0.124
+ROUGE-2 Average F1 Score:	0.144		0.123
+--------------------
+ROUGE-L Average Precision:	0.198		0.26
+ROUGE-L Average Recall:		0.405		0.272
+ROUGE-L Average F1 Score:	0.26		0.263
