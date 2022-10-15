@@ -28,7 +28,7 @@ Unittest prints "." when a test runs successfully, "E" when it encounters an err
 
 No tests updates the database; all of them are just processing information from it. Not all tests currently work.
 
-###Tests available to run
+### Tests available to run
 
 The tests marked in bold are skipped and must be run explicitly.
 
