@@ -6,5 +6,5 @@ _________________________________________
 _________________________________________
 [Venkatakrishnan R](https://github.com/Venkatakrishnan-Ramesh)  
 [Priyadharshini A R](https://github.com/PRIYADHARSHINI2003)  
-[Krithika](https://github.com/kirthi0)  
+[Krithika S](https://github.com/krithi113)  
 [Amirthavarshini V](https://github.com/Amirtha2503)  
