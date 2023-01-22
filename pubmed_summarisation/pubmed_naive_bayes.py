@@ -11,6 +11,7 @@ from sklearn import metrics
 import nltk
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'rouge_git')))
 from rouge import FilesRouge, Rouge
+# from sklearn.naive_bayes import MultinomialNB, BernoulliNB, ComplementNB 
 
 
 def choose_pubmed_files(PARSED_DIR, EXS_DIR, n_train):
@@ -111,6 +112,10 @@ def pubmed_naive_bayes(body_type=None, n_train=None):
 
     # Fits model to data
     gnb = GaussianNB()
+    # gnb = MultinomialNB()
+    # gnb = BernoulliNB()
+    # gnb = ComplementNB()
+    
     gnb.fit(xtrain, ytrain)
 
     # Calculates training accuracy

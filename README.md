@@ -4,7 +4,7 @@ The delivery of healthcare, business operations, and research are all impacted b
 _________________________________________
 ## **Contributors**
 _________________________________________
-[Venkatakrishnan R](https://github.com/Cody-coder017)  
+[Venkatakrishnan R](https://github.com/Venkatakrishnan-Ramesh)  
 [Priyadharshini A R](https://github.com/PRIYADHARSHINI2003)  
-[Krithika](https://github.com/kirthi0)  
+[Krithika S](https://github.com/krithi113)  
 [Amirthavarshini V](https://github.com/Amirtha2503)  
